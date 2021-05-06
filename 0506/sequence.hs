@@ -1,3 +1,3 @@
 main = do
- rs <-sequence [ getLine , getLine , getLine
+ rs <-sequence [ getLine , getLine , getLine ]
  print rs
